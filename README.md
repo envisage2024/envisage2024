@@ -38,3 +38,10 @@ Stay connected with Envisage across all platforms:
   <img src="https://github.com/Blesso125.png" width="50px;"/>
   <img src="https://github.com/JAFI13.png" width="50px;"/>
 </p>
+
+## Notice
+<p>
+  <a href="https://github.com/orgs/envisage256"> <img src="https://github.com/envisage256.png" width="50px" /> Envisage256 </a>
+</p>
+<p> Please refer to our GitHub Organization above for the latest developments in our open source projects
+</p>
